@@ -1,3 +1,4 @@
 #remote_theme: mmistakes/minimal-mistakes
 title: Cheats for all your games
-theme: jekyll-theme-merlot
+remote_theme: "mmistakes/minimal-mistakes" 
+#theme: jekyll-theme-merlot
